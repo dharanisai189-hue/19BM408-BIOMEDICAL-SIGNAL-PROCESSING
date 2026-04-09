@@ -49,7 +49,8 @@ Key Features of DIT-FFT :
 7)Stop the program
 
 # MATLAB CODE:
-```clc;
+```
+clc;
 clear;
 close all;
 
