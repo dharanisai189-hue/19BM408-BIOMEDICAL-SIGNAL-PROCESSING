@@ -43,7 +43,9 @@ x(n)=a^n sin⁡(ωn)
 5.	Label the axes and title
 6.	Stop the program
 
-# MATLAB CODE:```clc;
+# MATLAB CODE:
+```
+clc;
 clear;
 close all;
 
@@ -103,7 +105,8 @@ grid on;
 
 
 # OUTPUT GRAPH:
-![WhatsApp Image 2026-04-09 at 6 20 31 AM](https://github.com/user-attachments/assets/5b7739cf-44c2-48ed-a311-ef7ebe02038f)
+![WhatsApp Image 2026-04-09 at 6 20 31 AM (1)](https://github.com/user-attachments/assets/8e45fbe5-fa4c-47f4-9c76-5d53c228a88e)
+
 
 
 
