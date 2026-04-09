@@ -51,7 +51,8 @@ Twiddle factors are applied after subtraction
 6)Stop the program
 
 # MATLAB CODE :
-```clc;
+```
+clc;
 clear;
 close all;
 
