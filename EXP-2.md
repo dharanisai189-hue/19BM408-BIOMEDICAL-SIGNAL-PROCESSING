@@ -28,6 +28,7 @@ Where:
 	7)Stop the program
 
 # MATLAB CODE :
+```
 clc;
 clear;
 close all;
@@ -58,7 +59,8 @@ grid on;
 ```
 
 # OUTPUT GRAPH :
-<img width="1920" height="1200" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/5187b8d1-976a-475c-aef9-cc6ab3888e9e" />
+<img width="1920" height="987" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/61f75bb0-5652-4fcd-ad3a-ca2a33d7a832" />
+
 
 
 
