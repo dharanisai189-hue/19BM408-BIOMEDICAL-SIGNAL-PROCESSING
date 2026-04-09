@@ -63,7 +63,8 @@ The steps involved are:
 7.	Verify whether the filter satisfies the given constraints.
 
 # MATLAB CODE :
-```clc;
+```
+clc;
 clear;
 close all;
 
